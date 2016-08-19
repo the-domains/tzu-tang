@@ -6,9 +6,9 @@ color:
   saturation: 0.9791011214256287
   rhythmicContrast: 0.26411930145695806
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: Tzu Tang
